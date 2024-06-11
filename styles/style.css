@@ -1,0 +1,36 @@
+html {
+	font-size: 32px;
+	font-family: Caveat;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+}
+
+p,
+li {
+	font-size: 28px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+
+html {
+	background-color: #ffffff;
+}
+
+body {
+	width: 1366px;
+	margin: 0 auto;
+	background-color: #f387ea;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+
+h1,
+h2 {
+	margin: 0;
+	padding: 20px 0;
+	color: #ffffff;
+	text-shadow: 8px 11px 11px rgb(218, 134, 243);
+}
